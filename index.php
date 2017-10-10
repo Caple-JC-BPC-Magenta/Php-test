@@ -4,9 +4,8 @@
  </head>
  <body>
  <?php echo <p>'Hello World'</p>;
-  $myText1="Reeeeeeee";
-   echo $myText1;
    echo "'<br/><br>'"
+    echo <p>'Reeeee?'</p>;
     ?>
   
  </body>
